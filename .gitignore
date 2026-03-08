@@ -37,7 +37,7 @@ build/
 #1
 #src/main/java/eafit/gruopChat/infrastructure/
 #2
-src/main/java/eafit/gruopChat/user/
+#src/main/java/eafit/gruopChat/user/
 #3
 src/main/java/eafit/gruopChat/group/
 #4
