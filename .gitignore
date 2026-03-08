@@ -1,0 +1,54 @@
+HELP.md
+target/
+.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+### VS Code ###
+.vscode/
+
+
+# Carpetas a excluir
+#1
+src/main/java/eafit/gruopChat/dm/ 
+#2
+src/main/java/eafit/gruopChat/file/
+#3
+src/main/java/eafit/gruopChat/group/
+#4
+src/main/java/eafit/gruopChat/messaging/
+#5
+src/main/java/eafit/gruopChat/presence/
+#6
+src/main/java/eafit/gruopChat/user/
+#7
+src/main/java/eafit/gruopChat/infrastructure/
+#8
+src/main/resources/static/
+#9
+src/main/resources/templates/
